@@ -1,0 +1,19 @@
+PRINT
+PRINT
+INSERT x number false
+INSERT y string false
+INSERT z string false
+INSERT h string false
+BEGIN
+INSERT x number false
+INSERT y string false
+INSERT k ()->number true
+LOOKUP x
+LOOKUP k
+BEGIN
+INSERT z2 string false
+LOOKUP z2
+END
+PRINT
+END
+PRINT

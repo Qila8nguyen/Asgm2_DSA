@@ -1,0 +1,26 @@
+INSERT nSc number true
+INSERT kBaB number false
+BEGIN
+LOOKUP nSc
+INSERT gLz6 number true
+PRINT
+LOOKUP gLz6
+PRINT
+INSERT c7GYOd string false
+LOOKUP kBaB
+BEGIN
+BEGIN
+PRINT
+ASSIGN nSc nSc
+END
+INSERT q string true
+BEGIN
+LOOKUP c7GYOd
+INSERT h9S string true
+PRINT
+PRINT
+LOOKUP q
+BEGIN
+INSERT jqnI string true
+END
+ASSIGN gLz6 c7GYOd

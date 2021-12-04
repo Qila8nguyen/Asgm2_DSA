@@ -1,0 +1,19 @@
+INSERT x string false
+INSERT num_1 number false
+INSERT num_2 number false
+PRINT
+INSERT b1 string false
+INSERT bum (number,number,number,string)->string true
+INSERT sub (number,number)->string true
+INSERT oid ()->string true
+INSERT add (number,string,number,string)->number true
+INSERT k number false
+INSERT m2 string false
+PRINT
+ASSIGN x sub(num_1,num_2)
+ASSIGN m2 sub(num_1,num_2)
+PRINT
+ASSIGN m2 oid()
+PRINT
+ASSIGN m2 add(num_2,b1,num_1)
+PRINT

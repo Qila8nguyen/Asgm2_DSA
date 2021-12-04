@@ -1,0 +1,24 @@
+INSERT s8Y (number,string,string)->string false
+PRINT
+PRINT
+BEGIN
+INSERT g3 number true
+INSERT jMb_I string false
+INSERT r9 number false
+LOOKUP jMb_I
+END
+END
+ASSIGN jMb_I g3
+ASSIGN jMb_I h
+LOOKUP ncWop
+ASSIGN g3 g3
+ASSIGN jMb_I r9
+ASSIGN qGi9B mjz
+ASSIGN g3 g3
+PRINT
+ASSIGN s8Y g3
+END
+BEGIN
+BEGIN
+INSERT hl ()->number true
+LOOKUP s8Y

@@ -1,0 +1,10 @@
+INSERT uJ2Ry (number,number)->string true
+INSERT k string true
+BEGIN
+BEGIN
+PRINT
+BEGIN
+LOOKUP k
+BEGIN
+INSERT ujy number true
+PRINT
